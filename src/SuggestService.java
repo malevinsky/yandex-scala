@@ -10,8 +10,8 @@ import java.util.*;
 
 public class SuggestService {
     public static void main(String[] args) throws IOException {
-        List<String> list = new ArrayList<>(); //создаём ArrayList для списка компаний
-        Solution.SuggestServices(list); //
+        List<String> companyNames = new ArrayList<>();
+        Solution.SuggestServices(companyNames);
     }
 }
 
