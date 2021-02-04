@@ -28,7 +28,7 @@ public class SuggestService {
              */
 
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Введите строку с которой начинаемся название компании:");
+            System.out.println("Введите строку с которой начинается название компании:");
             String searchString = scanner.next();
             System.out.println("Введите кол-во компаний, которые нужно вывести:");
             int numberOfWords = scanner.nextInt();
