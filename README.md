@@ -1,5 +1,7 @@
 # yandex-scala
 
+Видео, где я тестирую программу: https://www.youtube.com/watch?v=OA0Ha1P3zHk
+
 Тестовое в яндекс.
 
 Задание: 
