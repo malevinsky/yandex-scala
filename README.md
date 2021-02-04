@@ -10,4 +10,4 @@
 Я вывела подсказки, чтобы было легче понять когда что нужно набрать. В коде есть комментарии для лучшего понимания хода моих мыслей.
 
 Пример ввода и вывода:
-![](https://github.com/malevinsky/yandex-scala/blob/master/src/picture/Screenshot%20from%202021-02-04%2015-22-30.png)
+![](https://github.com/malevinsky/yandex-scala/blob/master/src/picture/Screenshot%20from%202021-02-04%2015-35-02.png)
